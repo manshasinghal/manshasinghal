@@ -1,4 +1,4 @@
-![MasterCode](https://i.pinimg.com/736x/6c/2c/a2/6c2ca251b5b02d40b6278375bee2b1c6.jpg)
+![MasterCode](https://miro.medium.com/v2/resize:fit:1024/0*4ty0Adbdg4dsVBo3.png)
 <h1 align="center">Hi 👋, I'm Mansha Singhal</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt = "Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
