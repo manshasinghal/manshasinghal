@@ -1,4 +1,4 @@
-![logo](https://t4.ftcdn.net/jpg/02/65/54/59/360_F_265545912_HB0JDvXZCjlIv6XBcAUmcffeTc6VecLm.jpg)
+![logo](https://i.pinimg.com/736x/6c/2c/a2/6c2ca251b5b02d40b6278375bee2b1c6.jpg)
 <h1 align="center">Hi 👋, I'm Mansha Singhal</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt = "Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
