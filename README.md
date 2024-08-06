@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **react,tailwind,mongodb,nodejs and express and any general software development questions.**
+- 💬 Ask me about **react, tailwind , mongodb , nodejs and express and any general software development questions.**
 
 - ⚡ Fun fact **I love learning new skill**
 -  Check Out My  <a href="https://myportfolio-nu-cyan.vercel.app/" target="blank">Portfolio</a>
