@@ -11,6 +11,7 @@
 - 💬 Ask me about **react,tailwind,mongodb,nodejs and express and any general software development questions.**
 
 - ⚡ Fun fact **I love learning new skill**
+-  check Out my  <a href="https://myportfolio-nu-cyan.vercel.app/" target="blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
